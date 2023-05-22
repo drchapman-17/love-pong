@@ -1,4 +1,4 @@
 # Pong
 [LÖVE framework]() implementation
 
-![Screenshot](https://imgur.com/lp7f4Go)
+![screenshot](https://i.imgur.com/CwKB94W.png)
