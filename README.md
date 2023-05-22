@@ -6,4 +6,4 @@
 To play it:
 - Clone this repository
 - Install [LÖVE](https://love2d.org/)
-- run **love .** in the downloaded folder
+- run **love .** in the projects root folder folder (terminal)
